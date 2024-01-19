@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashidivs" alt="shashidivs" /></a> </p>
-
-
 - 📫 How to reach me **shashipolity@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
